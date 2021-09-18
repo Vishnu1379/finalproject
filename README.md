@@ -1,0 +1,2 @@
+# finalproject
+machine laerning model
